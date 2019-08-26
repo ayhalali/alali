@@ -37,4 +37,10 @@ netsh wlan show profile "*****" key = clear
 ![security key](https://user-images.githubusercontent.com/54427734/63726906-3b40ef80-c824-11e9-8f79-a1015cde674e.JPG)
 
 
+
 ### Many internet service providers give you their router that is protected by a security key, which cannot be changed except by the provider, and it's hard to memorize it and usually get lost. By this way, you can show the password of your network in case you want to use it in another device.
+
+
+
+Here is my Linked profile. 
+[https://www.linkedin.com/in/ali-alali-a4067096/](https://www.linkedin.com/in/ali-alali-a4067096/)
