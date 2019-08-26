@@ -42,5 +42,7 @@ netsh wlan show profile "*****" key = clear
 
 
 
-Here is my Linked profile. 
-[https://www.linkedin.com/in/ali-alali-a4067096/](https://www.linkedin.com/in/ali-alali-a4067096/)
+Here are some useful websites that are related to tech:  
+1. [https://www.online-tech-tips.com/](https://www.online-tech-tips.com/)
+2. [https://www.intel.com/content/www/us/en/tech-tips-and-tricks/tech-tips.html](https://www.intel.com/content/www/us/en/tech-tips-and-tricks/tech-tips.html)
+3. [https://www.techspot.com/features/tips-tricks/](https://www.techspot.com/features/tips-tricks/)
