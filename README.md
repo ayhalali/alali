@@ -1,14 +1,14 @@
 
-# How to get the saved wifi passwords in your computer:
+# How to get wifi passwords that are saved in your computer:
 
 
 ## ***First: how to show the networks that your computer connected to:***
 
-1. Click on Windows icon and type Run, or you can press simultaneously on Windows button on your keyboard with R (Win + R)
+1. Click on Windows icon and type *run*, or you can press simultaneously on Windows button on your keyboard with R (Win + R)
 
 ![Windows_run](https://user-images.githubusercontent.com/54427734/63726579-45aeb980-c823-11e9-93bc-77f567dcbf04.jpg)
 
-2. The **Run** window will open. Type cmd and click enter.
+2. The **Run** window will open. Type *cmd* and click enter.
 
 ![run](https://user-images.githubusercontent.com/54427734/63723753-e26d5900-c81b-11e9-98a6-d794d925e7ef.JPG)
 
